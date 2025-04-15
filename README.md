@@ -1,5 +1,5 @@
 # Sobre mí
-¡Hola! Soy un desarrollador MERN (MongoDB, Express, React, Node.js) apasionado por crear soluciones web escalables y eficientes.
+¡Hola! Soy un desarrollador de software apasionado por crear soluciones web escalables y eficientes.
 
 Mi experiencia en el desarrollo web comenzó hace algunos años, cuando descubrí mi interés por la tecnología y la programación. Desde entonces, he trabajado en proyectos desafiantes y emocionantes que me han permitido aprender y mejorar mis habilidades como desarrollador.
 
